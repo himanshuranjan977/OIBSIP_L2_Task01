@@ -14,7 +14,6 @@ The site is live <a href="https://himanshuranjan977.github.io/CodeClause_project
 
 ## Built With
 
-* love
 * html
 * css
 * javascript
