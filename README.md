@@ -24,4 +24,4 @@ The site is live <a href="https://himanshuranjan977.github.io/CodeClause_project
 Name : Himanshu Ranjan 
 
 
-Email :himanshuranjan977.hitece2020@gmail.com
+
